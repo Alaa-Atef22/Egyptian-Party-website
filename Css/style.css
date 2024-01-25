@@ -49,8 +49,8 @@ background-position: center;background-size: cover;}
 #text4{font-size: 20px;color: rgba(22, 103, 68);}
 input:focus{box-shadow:inset 0 0 0 1px rgba(22, 103, 68),0 0 3px 1px rgba(22, 103, 68)!important;}
 textarea:focus{box-shadow:inset 0 0 0 1px rgba(22, 103, 68),0 0 3px 1px rgba(22, 103, 68) !important;}
-@media only screen and (max-width:768px) {#Details .count{display: flex;flex-direction: column;}.list{padding-bottom: 50px;text-align: center;}.col-md-7{width: 80%;}}
-@media only screen and (max-width: 600px) { #Details .count{display: flex;flex-direction: column;}.list{padding-bottom: 50px;text-align: center;}.col-md-7{width: 80%;}}
+@media only screen and (max-width:768px) {#Details .count{display: flex;flex-direction: column;}.list{padding-bottom: 50px;text-align: center;}.col-md-7{width: 80%;} }
+@media only screen and (max-width: 600px) { #Details .count{display: flex;flex-direction: column;}.list{padding-bottom: 50px;text-align: center;}.col-md-7{width: 80%;} }
 
 
 
